@@ -1,4 +1,5 @@
-# 🚀 Frontend Developer | [Hedayet]
+
+# 🚀 Frontend Developer | [Hedayet Al]
 
 Professional Frontend Developer dedicated to building **premium, high-performance web applications**. I bridge the gap between complex design concepts and functional, pixel-perfect reality, focusing on minimalist aesthetics and robust architecture.
 
