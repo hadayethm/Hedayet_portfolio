@@ -59,7 +59,7 @@ export default function PortFooter() {
           >
             <div>
               <h2 className="text-3xl font-extrabold text-white tracking-tight">
-                Shahwaiz <span className="text-purple-500">.</span>
+                Hedayet <span className="text-purple-500">.</span>
               </h2>
               <p className="text-purple-400 font-medium mt-1">
                 Front-End Developer
@@ -70,7 +70,7 @@ export default function PortFooter() {
               touch of purple.
             </p>
             <p className="text-[10px] uppercase tracking-[0.2em] text-gray-600 font-bold">
-              © 2026 • Crafted by Shahwaiz
+              © 2026 • Crafted by Hedayet
             </p>
           </motion.div>
 

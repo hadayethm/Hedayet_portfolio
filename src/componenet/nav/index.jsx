@@ -52,7 +52,7 @@ export default function Navbar() {
           animate={{ opacity: 1, x: 0 }}
           className="text-2xl font-black tracking-tighter text-white"
         >
-          SHAHWAIZ<span className="text-indigo-500">.</span>
+          Hedayet<span className="text-indigo-500">.</span>
         </motion.div>
 
         {/* DESKTOP LINKS */}
