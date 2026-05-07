@@ -70,7 +70,7 @@ export default function Hero (){
       <h1 className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold text-white leading-[1.1]">
         Hi, I'm <br />
         <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-500">
-          Shahwaiz
+          Hedayet
         </span>
       </h1>
     </motion.div>
