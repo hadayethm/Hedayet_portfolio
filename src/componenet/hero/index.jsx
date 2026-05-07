@@ -13,7 +13,7 @@ import {
   Menu, 
   X 
 } from "lucide-react";
-import Shahwaiz_img from '../../assets/shahwaiz.png';
+import hedayet_img from '../../assets/hedayet.jpg';
 
 import { Link as ScrollLink } from "react-scroll";
 
@@ -123,12 +123,12 @@ export default function Hero (){
     <div className="relative w-full max-w-[320px] sm:max-w-[380px] lg:max-w-[420px] aspect-[3/4] bg-gray-900 rounded-[2rem] border border-white/10 p-2 shadow-indigo-500/20 rotate-3 hover:rotate-0 transition-all duration-500">
       <div className="w-full h-full bg-zinc-800 rounded-[1.5rem] overflow-hidden relative group">
         <img 
-          src={Shahwaiz_img} 
-          alt="Shahwaiz" 
+          src={hedayet_img} 
+          alt="Hedayet" 
           className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500 scale-105 group-hover:scale-110"
         />
         <div className="absolute bottom-0 left-0 w-full p-6 bg-gradient-to-t from-black/90 to-transparent">
-          <p className="text-white font-bold text-xl">Shahwaiz</p>
+          <p className="text-white font-bold text-xl">Hedayet Ali</p>
           <p className="text-indigo-400 text-sm">Web Developer</p>
         </div>
       </div>
