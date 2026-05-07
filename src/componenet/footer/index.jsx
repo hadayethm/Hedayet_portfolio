@@ -116,7 +116,7 @@ export default function PortFooter() {
                 <Mail size={20} />
               </div>
               <span className="text-gray-300 text-[11px] font-medium">
-                shahwaizgoraya10@gmail.com
+                hadayethm1999@gmail.com
               </span>
             </motion.a>
 
