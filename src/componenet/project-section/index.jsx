@@ -17,7 +17,7 @@ const projects = [
     icon: <ShoppingCart size={20} />,
     tags: ["React", "Tailwind CSS", "Framer Motion","swiper","react-router-dom","react-icon"],
     image: albirds_img,
-    GitHub: "https://github.com/shahwaiz-34/allbirds",
+    GitHub: "#!",
     LiveDemo: "https://allbirds-seven.vercel.app/",
   },
   {
@@ -25,7 +25,7 @@ const projects = [
     icon: <BarChart3 size={20} />,
     tags: ["React", "API", "Clerk Auth","react-router-dom"],
     image: myShop_img,
-    GitHub: "https://github.com/shahwaiz-34/my-shop",
+    GitHub: "#!",
     LiveDemo: "https://my-shop-nine-orpin.vercel.app/",
   },
   {
@@ -33,7 +33,7 @@ const projects = [
     icon: <Palette size={20} />,
     tags: ["React", "Tailwind CSS", "Framer Motion", "Lucide React"],
     image: modrenLanging_img,
-    GitHub: "https://github.com/shahwaiz-34/modern-landing-2026",
+    GitHub: "#!",
     LiveDemo: "https://modern-landing-2026.vercel.app/",
   },
 ];
