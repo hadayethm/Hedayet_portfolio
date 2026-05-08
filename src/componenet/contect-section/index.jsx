@@ -107,17 +107,17 @@ const ContactSection = () => {
               <ContactItem
                 icon={<FaEnvelope />}
                 title="Email"
-                content="shahwaizgoraya10@gmail.com"
+                content="hadayethm1999@gmail.com"
               />
               <ContactItem
                 icon={<FaPhone />}
                 title="Phone"
-                content="+923099338055"
+                content="+880 1994992011"
               />
               <ContactItem
                 icon={<FaMapMarkerAlt />}
                 title="Location"
-                content="pakistan, punjab"
+                content="Mohammadpur, Dhaka-1207, Bangladesh"
               />
             </div>
           </CardWrapper>
@@ -128,17 +128,17 @@ const ContactSection = () => {
               <SocialItem
                 icon={<FaGithub />}
                 label="GitHub"
-                link="https://github.com/shahwaiz-34"
+                link="https://github.com/hadayethm/Hedayet_portfolio"
               />
               <SocialItem
                 icon={<FaTwitter />}
                 label="Twitter"
-                link="https://x.com/GorayaShah12893"
+                link="#"
               />
               <SocialItem
                 icon={<FaFacebook />}
                 label="Facebook"
-                link="https://www.facebook.com/share/1ApGfsx8pU/"
+                link="https://www.facebook.com/md.hadayet.ali.2025/"
               />
             </div>
           </CardWrapper>

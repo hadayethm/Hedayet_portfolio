@@ -93,7 +93,7 @@ export default function PortFooter() {
               Resources
             </h4>
             <nav className="flex flex-col space-y-4">
-              <NavLink text="GitHub Repos" link="https://github.com/shahwaiz-34?tab=repositories" />
+              <NavLink text="GitHub Repos" link="https://github.com/hadayethm/Hedayet_portfolio" />
             
             </nav>
           </motion.div>

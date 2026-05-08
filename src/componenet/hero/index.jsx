@@ -129,7 +129,7 @@ export default function Hero (){
         />
         <div className="absolute bottom-0 left-0 w-full p-6 bg-gradient-to-t from-black/90 to-transparent">
           <p className="text-white font-bold text-xl">Hedayet Ali</p>
-          <p className="text-indigo-400 text-sm">Web Developer</p>
+          <p className="text-indigo-400 text-sm">Front-End Developer</p>
         </div>
       </div>
 
@@ -144,7 +144,7 @@ export default function Hero (){
         </div>
         <div>
           <p className="text-[10px] text-gray-400">Experience</p>
-          <p className="text-sm sm:text-base text-white font-bold">2+ Years</p>
+          <p className="text-sm sm:text-base text-white font-bold">3+ Years</p>
         </div>
       </motion.div>
 

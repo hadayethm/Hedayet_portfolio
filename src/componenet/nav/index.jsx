@@ -78,9 +78,9 @@ export default function Navbar() {
         {/* RIGHT SIDE ACTIONS */}
         <div className="hidden md:flex items-center gap-6">
           <div className="flex gap-4 border-r border-white/10 pr-6">
-            <SocialIcon Icon={Facebook} href={'https://www.facebook.com/share/1ApGfsx8pU/'} />
-            <SocialIcon Icon={Twitter} href="https://x.com/GorayaShah12893" />
-            <SocialIcon Icon={Github} href="https://github.com/shahwaiz-34/modern-landing-2026" />
+            <SocialIcon Icon={Facebook} href={'https://www.facebook.com/md.hadayet.ali.2025/'} />
+            <SocialIcon Icon={Twitter} href="#" />
+            <SocialIcon Icon={Github} href="https://github.com/hadayethm/Hedayet_portfolio" />
           </div>
 
           <motion.button
@@ -126,10 +126,10 @@ export default function Navbar() {
               <div className="flex gap-6 pt-4 border-t border-white/10">
                 <SocialIcon
                   Icon={Facebook}
-                  href='https://www.facebook.com/share/1ApGfsx8pU/'
+                  href='https://www.facebook.com/md.hadayet.ali.2025/'
                 />
-                <SocialIcon Icon={Twitter} href="https://x.com/GorayaShah12893" />
-                <SocialIcon Icon={Github} href="https://github.com/shahwaiz-34/modern-landing-2026" />
+                <SocialIcon Icon={Twitter} href="#" />
+                <SocialIcon Icon={Github} href="https://github.com/hadayethm/Hedayet_portfolio" />
               </div>
             </div>
           </motion.div>
