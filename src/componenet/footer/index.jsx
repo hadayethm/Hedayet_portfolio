@@ -108,7 +108,7 @@ export default function PortFooter() {
             </h4>
 
             <motion.a
-              href="mailto:hello@shahwaiz.com"
+              href="mailto:hadayethm1999@gmail.com"
               whileHover={{ scale: 1.05 }}
               className="flex items-center space-x-3 bg-white/5 border border-white/10 p-3 rounded-2xl w-full max-w-[240px] group hover:bg-purple-500/10 hover:border-purple-500/50 transition-all shadow-xl"
             >
