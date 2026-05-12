@@ -32,7 +32,7 @@ const SocialIcon = ({ Icon, href }) => (
 // --- HERO SECTION ---
 
 export default function Hero (){
-  const roles = ["Front End Developer", "WordPress Developer", "Elementor & WooCommerce Developer", "Figma to HTML", "ThemeForest Experrt"];
+  const roles = ["Front End Developer", "WordPress Developer", "Elementor & WooCommerce Developer", "Figma to HTML", "ThemeForest Expert"];
   const [index, setIndex] = useState(0);
 
   // Auto-rotate roles
