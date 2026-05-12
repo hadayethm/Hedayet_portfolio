@@ -32,7 +32,7 @@ const SocialIcon = ({ Icon, href }) => (
 // --- HERO SECTION ---
 
 export default function Hero (){
-  const roles = ["Front End Developer", "Figma to React ","Adobe XD to React", "React Specialist"];
+  const roles = ["Front End Developer", "WordPress Developer", "Elementor & WooCommerce Developer", "Figma to HTML", "ThemeForest Experrt"];
   const [index, setIndex] = useState(0);
 
   // Auto-rotate roles
@@ -129,6 +129,7 @@ export default function Hero (){
         />
         <div className="absolute bottom-0 left-0 w-full p-6 bg-gradient-to-t from-black/90 to-transparent">
           <p className="text-white font-bold text-xl">Hedayet Ali</p>
+          <p className="text-indigo-400 text-sm">WordPress Developer </p>
           <p className="text-indigo-400 text-sm">Front End Developer</p>
         </div>
       </div>
